@@ -1,5 +1,4 @@
 # **Friendly Chat**
-___
 
 This is a small chat app for using and testing Firebase services.
 
